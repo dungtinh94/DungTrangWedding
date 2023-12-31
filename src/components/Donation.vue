@@ -17,7 +17,6 @@
                   <div class="donate-card" v-if="showP">
                     <h3 class="tw-font-comfortaa">Mừng cưới đến chú rể</h3>
                       <a-space direction="vertical" align="center">
-                      <!-- <a-qrcode :value="'https://vpo.page.link/GWNZ'" /> -->
                            <a-image
                             class="!tw-w-[160px] !tw-h-[160px]"
                             :src="qrDung"

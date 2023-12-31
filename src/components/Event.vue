@@ -71,7 +71,7 @@
                   />
                 </div>
                 <p>
-                  <strong class="tw-font-comfortaa">10:00 AM 14/01/2023</strong>
+                  <strong class="tw-font-comfortaa">09:00 AM 14/01/2023</strong>
                 </p>
                 <p class="tw-font-comfortaa">
                   Xóm 1, xã Kim Thái, huyện Vụ bản, tỉnh Nam Định
