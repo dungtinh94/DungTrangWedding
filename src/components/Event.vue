@@ -20,13 +20,13 @@
                   />
                 </div>
                 <p>
-                  <strong class="tw-font-comfortaa">10:00 AM 11/06/2023</strong>
+                  <strong class="tw-font-comfortaa">12:00 AM 14/01/2024</strong>
                 </p>
                 <p class="tw-font-comfortaa">
-                  Xóm 9, Thôn Kim Ngọc 3, xã Liên Giang, huyện Đông Hưng, tỉnh Thái Bình
+                  Địa chỉ Xóm Đồng, xã Quang Trung, Vụ Bản, Nam Định
                 </p>
                 <div class="calendar-button tw-font-comfortaa">Thêm vào lịch</div>
-                <a href="#" class="see-location-button tw-font-comfortaa">Xem bản đồ</a>
+                <a target="_blank" href="https://www.google.com/maps/search/X%C3%B3m+%C4%90%E1%BB%93ng,+x%C3%A3+Quang+Trung,+V%E1%BB%A5+B%E1%BA%A3n,+Nam+%C4%90%E1%BB%8Bnh/@20.3775074,106.099668,17.92z?hl=vi-VN&entry=ttu" class="see-location-button tw-font-comfortaa">Xem bản đồ</a>
               </div>
               <div class="grid">
                 <h3 class="tw-font-comfortaa">TIỆC CƯỚI NHÀ NỮ</h3>
@@ -37,13 +37,13 @@
                   />
                 </div>
                 <p>
-                  <strong class="tw-font-comfortaa">10:00 AM 11/06/2023</strong>
+                  <strong class="tw-font-comfortaa">10:00 AM 14/01/2024</strong>
                 </p>
                 <p class="tw-font-comfortaa">
-                  Xóm 9, Thôn Kim Ngọc 3, xã Liên Giang, huyện Đông Hưng, tỉnh Thái Bình
+                  Địa chỉ Xóm Đồng, xã Quang Trung, Vụ Bản, Nam Định
                 </p>
                 <div class="calendar-button tw-font-comfortaa">Thêm vào lịch</div>
-                <a href="#" class="see-location-button tw-font-comfortaa">Xem bản đồ</a>
+                <a target="_blank" href="https://www.google.com/maps/search/X%C3%B3m+%C4%90%E1%BB%93ng,+x%C3%A3+Quang+Trung,+V%E1%BB%A5+B%E1%BA%A3n,+Nam+%C4%90%E1%BB%8Bnh/@20.3775074,106.099668,17.92z?hl=vi-VN&entry=ttu" class="see-location-button tw-font-comfortaa">Xem bản đồ</a>
               </div>
               <div class="grid">
                 <h3 class="tw-font-comfortaa">Lễ cưới nhà nam</h3>
@@ -54,13 +54,13 @@
                   />
                 </div>
                 <p>
-                  <strong class="tw-font-comfortaa">10:00 AM 11/06/2023</strong>
+                  <strong class="tw-font-comfortaa">12:00 AM 14/01/2023</strong>
                 </p>
                 <p class="tw-font-comfortaa">
-                  Xóm 9, Thôn Kim Ngọc 3, xã Liên Giang, huyện Đông Hưng, tỉnh Thái Bình
+                  Xóm 1, xã Kim Thái, huyện Vụ bản, tỉnh Nam Định
                 </p>
                 <div class="calendar-button tw-font-comfortaa">Thêm vào lịch</div>
-                <a href="#" class="see-location-button tw-font-comfortaa">Xem bản đồ</a>
+                <a target="_blank" href="https://www.google.com/maps/place/Nh%C3%A0+V%C4%83n+H%C3%B3a+%C4%90%E1%BB%99i+5+X%C3%B3m+1+X%C3%A3+Kim+Th%C3%A1i/@20.3597403,106.0805888,18.88z/data=!4m10!1m2!2m1!1zWMOzbSAxLCB4w6MgS2ltIFRow6FpLCBodXnhu4duIFbhu6UgYuG6o24sIHThu4luaCBOYW0gxJDhu4tuaA!3m6!1s0x3135df3867fce445:0x4171c0c07a4b3ffa!8m2!3d20.3619836!4d106.0779928!15sCj1Yw7NtIDEsIHjDoyBLaW0gVGjDoWksIGh1eeG7h24gVuG7pSBi4bqjbiwgdOG7iW5oIE5hbSDEkOG7i25o4AEA!16s%2Fg%2F11qg2gprfg?hl=vi-VN&entry=ttu" class="see-location-button tw-font-comfortaa">Xem bản đồ</a>
               </div>
               <div class="grid">
                 <h3 class="tw-font-comfortaa tw-font-comfortaa">Tiệc cưới nhà nam</h3>
@@ -71,13 +71,13 @@
                   />
                 </div>
                 <p>
-                  <strong class="tw-font-comfortaa">10:00 AM 11/06/2023</strong>
+                  <strong class="tw-font-comfortaa">10:00 AM 14/01/2023</strong>
                 </p>
                 <p class="tw-font-comfortaa">
-                  Xóm 9, Thôn Kim Ngọc 3, xã Liên Giang, huyện Đông Hưng, tỉnh Thái Bình
+                  Xóm 1, xã Kim Thái, huyện Vụ bản, tỉnh Nam Định
                 </p>
                 <div class="calendar-button tw-font-comfortaa">Thêm vào lịch</div>
-                <a href="#" class="see-location-button tw-font-comfortaa">Xem bản đồ</a>
+                <a target="_blank" href="https://www.google.com/maps/place/Nh%C3%A0+V%C4%83n+H%C3%B3a+%C4%90%E1%BB%99i+5+X%C3%B3m+1+X%C3%A3+Kim+Th%C3%A1i/@20.3597403,106.0805888,18.88z/data=!4m10!1m2!2m1!1zWMOzbSAxLCB4w6MgS2ltIFRow6FpLCBodXnhu4duIFbhu6UgYuG6o24sIHThu4luaCBOYW0gxJDhu4tuaA!3m6!1s0x3135df3867fce445:0x4171c0c07a4b3ffa!8m2!3d20.3619836!4d106.0779928!15sCj1Yw7NtIDEsIHjDoyBLaW0gVGjDoWksIGh1eeG7h24gVuG7pSBi4bqjbiwgdOG7iW5oIE5hbSDEkOG7i25o4AEA!16s%2Fg%2F11qg2gprfg?hl=vi-VN&entry=ttu" class="see-location-button tw-font-comfortaa">Xem bản đồ</a>
               </div>
             </div>
           </transition>

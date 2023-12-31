@@ -9,11 +9,11 @@
     </Carousel>
     <div class="slide-text tw-absolute tw-left-1/2 tw-top-1/2">
       <div class="tw-flex tw-items-center tw-mb-3">
-        <div class="title tw-font-dancingScript tw-text-white tw-text-3xl md:tw-text-5xl ">Phạm Hiếu</div>
+        <div class="title tw-font-dancingScript tw-text-white tw-text-3xl md:tw-text-5xl tw-text-center tw-min-w-[250px]">Phạm Dũng</div>
         <HeartFilled class="tw-text-3xl md:tw-text-5xl tw-text-white tw-mx-3"/>
-        <div class="title tw-font-dancingScript tw-text-white tw-text-3xl md:tw-text-5xl ">Thanh Trà</div>
+        <div class="title tw-font-dancingScript tw-text-white tw-text-3xl md:tw-text-5xl tw-text-center tw-min-w-[250px]">Huyền Trang</div>
       </div>
-      <h4 class="sub-title tw-font-comfortaa tw-text-center tw-text-white">21 Tháng 1 Năm 2024</h4>
+      <h4 class="sub-title tw-font-comfortaa tw-text-center tw-text-white">14 Tháng 1 Năm 2024</h4>
     </div>
   </div>
 </template>
@@ -31,11 +31,19 @@ interface Image {
 const images: Image[] = [
   {
     id: 1,
-    url: 'https://cdn.biihappy.com/ziiweb/website/647a951e7a0e7dd068022467/templates/6174ef83a62963738e0a367c/ff47ee5c7f44475387a85dc2f20256d3.jpg',
+    url: 'https://edtexco-x360-dev.s3.ap-southeast-1.amazonaws.com/dev/images/tuan/THK_7031-min.jpg',
   },
   {
     id: 2,
-    url: 'https://cdn.biihappy.com/ziiweb/website/647a951e7a0e7dd068022467/templates/6174ef83a62963738e0a367c/998c2c9dd0aabc89cdaf457478c4b908.jpg',
+    url: 'https://edtexco-x360-dev.s3.ap-southeast-1.amazonaws.com/dev/images/tuan/THK_7084-min.jpg',
+  },
+    {
+    id: 3,
+    url: 'https://edtexco-x360-dev.s3.ap-southeast-1.amazonaws.com/dev/images/tuan/THK_7265-min.jpg',
+  },
+  {
+    id: 4,
+    url: 'https://edtexco-x360-dev.s3.ap-southeast-1.amazonaws.com/dev/images/tuan/THK_7018-min.jpg',
   },
 ];
 </script>
