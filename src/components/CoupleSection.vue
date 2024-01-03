@@ -6,8 +6,7 @@
           <div class="title">
             <h2>Cô dâu & Chú rể</h2>
             <p>
-              Tình yêu là điều kiện trong đó hạnh phúc của người khác là điều cần thiết cho chính
-              bạn.
+              Tình yêu là khi hạnh phúc của nửa kia chính là mong muốn lớn nhất của bạn
             </p>
           </div>
         </div>

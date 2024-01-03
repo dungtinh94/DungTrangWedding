@@ -6,8 +6,13 @@
           <div class="title">
             <h2>Chuyện Tình Yêu</h2>
             <p class="tw-text-sm tw-text-gray tw-font-comfortaa">
-              Tình yêu không chỉ là một danh từ - nó là một động từ; nó còn hơn cả một cảm giác - đó
-              là sự quan tâm, chia sẻ, giúp đỡ, hy sinh.
+              “Đố ai định nghĩa được tình yêu
+              <br/>
+              Có khó gì đâu được yêu chiều
+              <br/>
+              Quan tâm, chia sẻ và giúp đỡ
+              <br/>
+              Hy sinh lo lắng cho người yêu”
             </p>
           </div>
         </div>
@@ -20,7 +25,6 @@
                 <transition name="slide-right">
                   <div class="detail" v-if="showP">
                     <h3 class="tw-font-comfortaa">Lời tỏ tình dễ thương</h3>
-                    <span class="date">November 20 2021 </span>
                     <p class="tw-font-comfortaa">
                       Một mình giữa phố thị nấp tập. Mỗi chiều cuối tuần thường chạy xe vòng quanh
                       qua những con phố, len lỏi trong từng dòng người tấp nập. Hay thậm chí là ghé
@@ -52,7 +56,6 @@
                 <transition name="slide-left">
                   <div class="detail" v-if="showP">
                     <h3 class="tw-font-comfortaa">Phút Giây Cầu Hôn</h3>
-                    <span class="date tw-font-comfortaa">October 20 2023 </span>
                     <p class="tw-font-comfortaa">
                      2 năm bên nhau không phải là quãng thời gian quá dài, nhưng đủ cho chúng ta nhận ra được rất nhiều điều. Yêu nhau, vun vén hạnh phúc và cùng nỗ lực vượt qua những khó khăn trong cuộc sống. Chúng ta từ 2 con người xa lạ mà bước vào cuộc đời nhau. Và giờ đây chúng ta tiếp tục cùng nhau sang trang mới. Giây phút anh ngỏ lời “Làm vợ anh nhé!”, em đã nguyện ý đời này, đi đâu cũng được, miễn là cùng anh.
                     </p>

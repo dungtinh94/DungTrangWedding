@@ -43,7 +43,11 @@ const images: Image[] = [
   },
   {
     id: 4,
-    url: 'https://edtexco-x360-dev.s3.ap-southeast-1.amazonaws.com/dev/images/tuan/THK_7018-min.jpg',
+    url: 'https://edtexco-x360-dev.s3.ap-southeast-1.amazonaws.com/dev/images/tuan/THK_6579-min.jpg',
+  },
+  {
+    id: 5,
+    url: 'https://edtexco-x360-dev.s3.ap-southeast-1.amazonaws.com/dev/images/tuan/THK_6596-min.jpg',
   },
 ];
 </script>

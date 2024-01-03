@@ -41,7 +41,7 @@
                     </a-space>
                     <p class="tw-font-comfortaa">Ngân hàng: <strong>Teckcombank</strong></p>
                     <p class="tw-font-comfortaa">
-                      Tên tài khoản: <strong>Bui thi huyen trang</strong>
+                      Tên tài khoản: <strong>Bùi Thị Huyền Trang</strong>
                     </p>
                     <p class="tw-font-comfortaa">Số tài khoản: <strong>19033298813013</strong></p>
                     <p class="tw-font-comfortaa">Chi nhánh: <strong>Ha Noi</strong></p>
